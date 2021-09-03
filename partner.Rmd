@@ -1,0 +1,13 @@
+---
+title: "partner"
+author: "Adam Banwell"
+date: "9/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The owner's last commit message was Lab1 and the id was: 33d7886ef4a445c371d62d9bdd1063e6c5c7815e
+I had no errors with the Knit for the owner's hw1.rmd
